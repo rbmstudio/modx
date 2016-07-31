@@ -1,2 +1,2 @@
-# modx
-MODX Revolution Documentation
+# MODX
+MODX Revolution Documentation by redbox
